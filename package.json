@@ -1,0 +1,15 @@
+{
+  "name": "blanket",
+  "version": "1.0.0",
+  "description": "A dead simple API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/*_spec.js"
+  },
+  "author": "Bruno Abrantes",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
